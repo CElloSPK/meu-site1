@@ -1,0 +1,18 @@
+.div1 p{
+    color: aqua; 
+}
+.div1{
+    background-color: rgb(245, 0, 16);
+    width: 20%;
+    padding-bottom: 1%;
+}
+.div2{
+    background-color: rgb(245, 212, 0);
+    width: 20%;
+    padding-bottom: 1%;
+}
+.div3{
+    background-color: rgb(11, 45, 71);
+    width: 20%;
+    padding-bottom: 1%;
+}
